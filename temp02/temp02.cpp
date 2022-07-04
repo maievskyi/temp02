@@ -12,6 +12,7 @@
 // sed 1
 // sed 2
 // sed 3
+// sed 4
 
 #include "stdafx.h"
 #include <stdlib.h>
