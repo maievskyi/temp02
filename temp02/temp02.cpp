@@ -7,6 +7,7 @@
 // go 1 after revert 1 + commit to 0 = to 0
 // to 0
 // to 1
+// to 2
 
 
 #include "stdafx.h"
