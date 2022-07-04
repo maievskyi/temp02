@@ -4,7 +4,8 @@
 // mod 02
 // after 2 revert mod 3 -> mod 2 = mod 4
 // go 0
-// go 1
+// go 1 after revert 1 + commit to 0 = to 0
+// to 0
 
 
 #include "stdafx.h"
