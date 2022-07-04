@@ -7,7 +7,8 @@
 // go 1 after revert 1 + commit to 0 = to 0
 // to 0
 // to 1
-// to 2
+// to 2 revert from to 5 = sed 0
+// sed 0
 
 
 #include "stdafx.h"
