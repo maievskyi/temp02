@@ -2,7 +2,8 @@
 // start 00
 // mod 01
 // mod 02
-// mod 03
+// after 2 revert mod 3 -> mod 2 = mod 4
+
 
 #include "stdafx.h"
 #include <stdlib.h>
