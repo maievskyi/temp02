@@ -14,7 +14,6 @@
 // sed 3
 // sed 4
 // sed 5
-// sed 6
 
 #include "stdafx.h"
 #include <stdlib.h>
