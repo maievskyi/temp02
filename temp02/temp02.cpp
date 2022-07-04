@@ -3,6 +3,7 @@
 // mod 01
 // mod 02
 // after 2 revert mod 3 -> mod 2 = mod 4
+// go 0
 
 
 #include "stdafx.h"
