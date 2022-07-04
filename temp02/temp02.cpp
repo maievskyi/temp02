@@ -15,6 +15,8 @@
 // sed 4
 // sed 5
 // sed 7
+// after revert sed 8 = sed 9
+
 
 #include "stdafx.h"
 #include <stdlib.h>
