@@ -11,9 +11,14 @@
 
 #include "stdafx.h"
 #include <stdlib.h>
+#include <locale.h> /* Для русского языка ...........................*/
+
 
 int main()
 {
+
+	setlocale(LC_ALL, "Rus"); /* Обязательно должно быть первым........ */
+
 
 
 	system("pause");
