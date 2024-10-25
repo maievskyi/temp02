@@ -15,6 +15,7 @@
 // sed 4
 // sed 5
 // sed 7 after revert sed 9 + correct sed 7 = sed 10
+// next commit after merge with br1_from_go
 
 #include "stdafx.h"
 #include <stdlib.h>
