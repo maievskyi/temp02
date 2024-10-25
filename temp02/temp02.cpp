@@ -1,28 +1,21 @@
 // temp02.cpp: определяет точку входа для консольного приложения.
-// start 00
-// mod 01
-// mod 02
-// after 2 revert mod 3 -> mod 2 = mod 4
+// смерджен в лок репозитории на ветке master
+// start 0
+
 // go 0
-// go 1 after revert 1 + commit to 0 = to 0
-// to 0
-// to 1
-// to 2 revert from to 5 = sed 0
-// sed 0
-// sed 1
-// sed 2
-// sed 3
-// sed 4
-// sed 5
-// sed 7 after revert sed 9 + correct sed 7 = sed 10
-// next commit after merge with br1_from_go
+// go 1
+// go 2
+// go 3
+
 
 #include "stdafx.h"
 #include <stdlib.h>
+#include <locale.h> /* Для русского языка ...........................*/
 
 int main()
 {
 
+	setlocale(LC_ALL, "Rus"); /* Обязательно должно быть первым........ */
 
 	system("pause");
     return 0;
